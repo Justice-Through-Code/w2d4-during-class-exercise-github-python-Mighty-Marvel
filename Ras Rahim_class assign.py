@@ -1,10 +1,10 @@
 # jtc_technical_pq.py
 
 def jtc_technical():
-    print("hello world")
+    print("hello world?")
     
     
-jtc_technical()
+#jtc_technical()
 
 '''
 Step 1
